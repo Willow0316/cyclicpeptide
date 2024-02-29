@@ -1,0 +1,8 @@
+LICENSE.md
+README.md
+setup.py
+cyclicpeptide.egg-info/PKG-INFO
+cyclicpeptide.egg-info/SOURCES.txt
+cyclicpeptide.egg-info/dependency_links.txt
+cyclicpeptide.egg-info/requires.txt
+cyclicpeptide.egg-info/top_level.txt
